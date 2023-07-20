@@ -14,3 +14,4 @@ This code is to create a proveably random smart contract NFT Raffle.
 3. Using Chainlink VRF & Chainlink Automation
     1. Chainlink VRF --> Randomness
     2. Chainlink Automation --> Time Based trigger# NFT_RAFFLE
+# NFT_RAFFLE
